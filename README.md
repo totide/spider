@@ -40,4 +40,5 @@ chromedriver:
 tesseract-or:
 
   win32:  https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe
+  
   lang:   https://github.com/tesseract-ocr/tessdata
