@@ -32,7 +32,9 @@
 chromedriver:
 
   win32:  http://npm.taobao.org/mirrors/chromedriver/76.0.3809.25/chromedriver_win32.zip
+  
   linux:  http://npm.taobao.org/mirrors/chromedriver/76.0.3809.25/chromedriver_linux64.zip
+  
   mac:    http://npm.taobao.org/mirrors/chromedriver/76.0.3809.25/chromedriver_mac64.zip
 
 tesseract-or:
