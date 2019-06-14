@@ -25,3 +25,11 @@
   2. 利用yield实现协程异步处理IO
   3. rabbitmq+celery，消息队列实现异步任务执行
   4. k8s+docker，利用容器技术部署，打包成一个可移植的容器
+
+
+============================================================================================
+资源地址:
+  chromedriver
+  (win32):  http://npm.taobao.org/mirrors/chromedriver/76.0.3809.25/chromedriver_win32.zip
+  (linux):  http://npm.taobao.org/mirrors/chromedriver/76.0.3809.25/chromedriver_linux64.zip
+  (mac):    http://npm.taobao.org/mirrors/chromedriver/76.0.3809.25/chromedriver_mac64.zip
